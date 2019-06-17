@@ -25,16 +25,16 @@
 ###### Press the "Get The Player" button on Bodymovin and press it again in the next step.
 ![step3](https://github.com/mrhate8/Uf-HYP/blob/master/img/img3.jpg)
 ###### AAAAND NOW....the player is in our hand!
-###### This step allow you to create a .js file that we need very soon.
+###### This step allow you to create a "lottie.js" file.
 
 - ## Fourth Step
 ###### All the ingredients are now ready to get prepared for final (and maybe "hard") part of the recipe.
-###### Open your Index.html and create a script putting the .js(nominated now "bodymovin.js") file inside, and a div with the id named "bm".
+###### Open your Index.html and create a script putting the .js file(nominated now "bodymovin.js") inside, and a div with a id named "bm".
 
 ![step4](https://github.com/mrhate8/Uf-HYP/blob/master/img/img4.png)
 
 - ## Final Step
-###### Last but not least, in the "index.js"we got create a variable for our animation and, in the path, type the name of your .json file.
+###### Last but not least, in the "index.js" we got write a variable for our animation and, in the path, type the name of your .json file.
 
 ![step5](https://github.com/mrhate8/Uf-HYP/blob/master/img/img5.png)
 
