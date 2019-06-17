@@ -18,6 +18,6 @@
 
 - ## Third Step
 ###### Press the "Get The Player" button on Bodymovin and press it again in the next step.
-! [step3](https://github.com/mrhate8/Uf-HYP/blob/master/img/img3.jpg)
+![step3](https://github.com/mrhate8/Uf-HYP/blob/master/img/img3.jpg)
 
 
