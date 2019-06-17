@@ -24,5 +24,9 @@
 - ## Third Step
 ###### Press the "Get The Player" button on Bodymovin and press it again in the next step.
 ![step3](https://github.com/mrhate8/Uf-HYP/blob/master/img/img3.jpg)
+###### aaand now the player is in our hand!
 
+- ## Fourth Step
+###### All the ingredients are now ready to get prepared for final (and maybe "hard") part of the recipe.
+######  
 
