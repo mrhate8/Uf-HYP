@@ -25,10 +25,11 @@
 ###### Press the "Get The Player" button on Bodymovin and press it again in the next step.
 ![step3](https://github.com/mrhate8/Uf-HYP/blob/master/img/img3.jpg)
 ###### AAAAND NOW....the player is in our hand!
+###### This step allow you to create a .js file that we need very soon.
 
 - ## Fourth Step
 ###### All the ingredients are now ready to get prepared for final (and maybe "hard") part of the recipe.
-###### Open your Index.
+###### Open your Index.html and create a script putting the .js(nominated now "bodymovin.js") file inside.
 
 ![step4](https://github.com/mrhate8/Uf-HYP/blob/master/img/img4.png)
 
