@@ -7,6 +7,6 @@
 - ## First Step
 ###### We got to create the animation with After Effects (I've created the composition with Illustrator)
 
-!(https://github.com/mrhate8/Uf-HYP/blob/master/img/img1.jpg)
+![step1](https://github.com/mrhate8/Uf-HYP/blob/master/img/img1.jpg)
 
 
