@@ -10,7 +10,8 @@
 ![step1](https://github.com/mrhate8/Uf-HYP/blob/master/img/img1.jpg)
 
 - ## Second Step
-###### Go in "Extantion" and select "Bodymovin"
-###### 
+###### Go in "Window" - "Extantion" and select "Bodymovin".
+###### After that select your composition, choose a destination folder and in the settings check "Glyphs" and "Demo" (if you want have in HTML preview). Now it's time to press the RENDER button!
+![step2](https://github.com/mrhate8/Uf-HYP/blob/master/img/img2.jpg)
 
 
