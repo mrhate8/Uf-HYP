@@ -3,8 +3,8 @@
 ![animation](https://github.com/mrhate8/Uf-HYP/blob/master/ufo-blind.gif)
 
 
--
-## - First Step -
+
+- First Step
 ###### We got to create the animation with After Effects (I've created the composition with Illustrator)
 
 !
