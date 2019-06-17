@@ -5,9 +5,12 @@
 
 
 - ## First Step
-###### We got to create the animation with After Effects (I've created the composition with Illustrator)
+###### First of all we need After Effects (a.k.a AF) and the increbile, magnificent "[BODYMOVIN](https://aescripts.com/bodymovin/)" to bake our (presumably) fantastic animation.
+###### NOW!...Open AF and create your composition (I've created all the component with Illustrator)
 
 ![step1](https://github.com/mrhate8/Uf-HYP/blob/master/img/img1.jpg)
+
+
 
 - ## Second Step
 ###### Go in "Window" - "Extantion" and select "Bodymovin".
@@ -15,6 +18,8 @@
 ![step2](https://github.com/mrhate8/Uf-HYP/blob/master/img/img2.jpg)
 
 ###### Now that we got our "data.json" file, we need the "player" for our animation.
+
+
 
 - ## Third Step
 ###### Press the "Get The Player" button on Bodymovin and press it again in the next step.
