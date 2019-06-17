@@ -1,2 +1,1 @@
-# loadinganimation
 # LOADING ANIMATION
