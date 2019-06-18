@@ -1,7 +1,7 @@
 # Uf-HYP
 ###### Uf-HYP is a loading animation made with After Effects integrated in the Web-app [HYP](https://happy-beaver-hyp.netlify.com/)
-![animation](https://github.com/mrhate8/Uf-HYP/blob/master/ufo-blind.gif)
 
+# How To Bake An Animation:
 
 
 - ## First Step
@@ -39,5 +39,7 @@
 ![step5](https://github.com/mrhate8/Uf-HYP/blob/master/img/img5.png)
 
 - ## HABEMUS ANIMATION!
+
+![animation](https://github.com/mrhate8/Uf-HYP/blob/master/ufo-blind.gif)
 
 ###### Our animation is now complete! Now pat your shoulder, drink some Redbull and.....GO BACK AGAIN IN THE ANIMATION WORLD!
