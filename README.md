@@ -2,9 +2,7 @@
 ###### Uf-HYP is a loading animation made with After Effects integrated in the Web-app [HYP](https://happy-beaver-hyp.netlify.com/)
 
 
-
-
-
+<br/>
 
 
 # How To Bake An Animation:
