@@ -10,7 +10,7 @@
 
 - ## First Step
 ###### First of all we need After Effects (a.k.a AF) and the increbile, magnificent "[BODYMOVIN](https://aescripts.com/bodymovin/)" to bake our (presumably) fantastic animation.
-###### NOW!...Open AF and create your composition (I've created all the component with Illustrator)
+###### NOW!...Open AF and create your composition (all the components are created with Illustrator)
 
 ![step1](https://github.com/mrhate8/Uf-HYP/blob/master/img/img1.jpg)
 
